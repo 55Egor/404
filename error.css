@@ -1,0 +1,22 @@
+.title {
+    font-size: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    color : white
+    
+}
+.subtitle {
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+.link  {
+    margin-left: auto;
+    width: 250px;
+    margin-right: auto;
+    margin-top: 200px;
+}
+.box h1 {
+    text-shadow: 5px  4px 16px gray;
+}
